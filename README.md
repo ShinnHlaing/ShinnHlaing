@@ -1,4 +1,4 @@
-![Shinn](https://github.com/ShinnHlaing/ShinnHlaing/blob/main/Hero.jpg)
+![Shinn](https://github.com/ShinnHlaing/ShinnHlaing/blob/main/hero.jpg)
 <h1 align="center">Hi 👋, I'm Shinn</h1>
 <h3 align="center">A living species who try to lean alien things on earth</h3>
 
