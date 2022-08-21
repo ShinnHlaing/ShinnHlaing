@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **hlaingthazinphoo.hp@gmail.com**
 
-- ⚡ Fun fact **I'm kinda get easily bored of everything! but really good at wasting time systematically. #haha//**
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinnHlaing&theme=midnight-purple)
 
 
