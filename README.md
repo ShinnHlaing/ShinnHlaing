@@ -1,8 +1,6 @@
 ![Shinn](https://github.com/ShinnHlaing/ShinnHlaing/blob/main/hero.jpg)
 <h1 align="center">Hi 👋, I'm Shinn</h1>
-<h3 align="center">A living species who try to learn alien things on earth</h3>
 
-- 🌱 I’m currently learning **web design & development, programming languages, etc...**
 
 - 📫 How to reach me **hlaingthazinphoo.hp@gmail.com**
 
