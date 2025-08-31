@@ -1,4 +1,4 @@
-![Shinn](https://github.com/ShinnHlaing/ShinnHlaing/blob/main/hero.jpg)
+
 <h1 align="center">Hi 👋, I'm Shinn</h1>
 
 
