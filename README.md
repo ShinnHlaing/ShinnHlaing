@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Shinn</h1>
+<h1 align="center">Hello, I'm Shinn</h1>
 
 
 - 📫 How to reach me ****
