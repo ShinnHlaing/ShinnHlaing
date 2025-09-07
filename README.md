@@ -2,7 +2,7 @@
 
 <h4 align="center">
 
-  ***A passionate frontend developer specializing in React and Next.js. I build modern, responsive web applications with a focus on writing clean, efficient code.***
+  ***A passionate frontend developer specializing in React and Next.js. I build modern, responsive web applications with a focus on writing clean, and efficient code.***
   
 </h4>
 <div align="center">
@@ -33,7 +33,6 @@
 </div>
 
 <div align="center">
-  <h3>Stats:</h3>
   
   ![Shinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinnhlaing&show_icons=true&theme=tokyonight)
 </div>
