@@ -15,4 +15,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,react,nextjs,mongodb,mysql,postman,figma&theme=dark)](https://skillicons.dev)
 
+![Shinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinnhlaing&show_icons=true&theme=tokyonight)
+
 ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJuYXoyeW53eXhsemtkNXhodzN0ejRtcDV1NXNodmpyempoZnVkeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WvT88aQ6u0qH7XKhw9/giphy.gif)
