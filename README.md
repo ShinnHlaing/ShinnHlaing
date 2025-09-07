@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **shinhlaing.htp@gmail.com**
 
-- ⚡ Fun fact ** A fish tries to swim in the ocean 🐟🐠 **
+- ⚡ Fun fact **A fish tries to swim in the ocean 🐟🐠**
 
 <h3 align="left">Connect with me: 🪼🐳🪸</h3>
 <p align="left">
