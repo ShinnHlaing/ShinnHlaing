@@ -1,9 +1,11 @@
 <h1 align="center">Hello, I'm Shinn</h1>
 <h3 align="center">A frontend developer currently in 2025</h3>
 
-- 📫 How to reach me **shinhlaing.htp@gmail.com**
+<div align="center">
+  📫 How to reach me **shinhlaing.htp@gmail.com**
 
-- ⚡ Fun fact **A fish tries to swim in the ocean 🐟🐠**
+  ⚡ Fun fact **A fish tries to swim in the ocean 🐟🐠**
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjdpbnpvd2I1OWRha3M1MzRiM3o3YjdqNHBiank4bTBvazcyMms3byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/X6jIABEh52of0scrbA/giphy.gif" alt="A fish tries to swim in the ocean" />
