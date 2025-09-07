@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Shinn</h1>
 
-<h2 align="center">
+<h4 align="center">
 
   ***A passionate frontend developer specializing in React and Next.js. I build modern, responsive web applications with a focus on writing clean, efficient code.***
   
-</h2>
+</h4>
 <div align="center">
   <p>
     
