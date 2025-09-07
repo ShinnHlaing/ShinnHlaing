@@ -2,9 +2,12 @@
 <h3 align="center">A frontend developer currently in 2025</h3>
 
 <div align="center">
-  📫 How to reach me **shinhlaing.htp@gmail.com**
-
-  ⚡ Fun fact **A fish tries to swim in the ocean 🐟🐠**
+  <p>
+    -📫 How to reach me **shinhlaing.htp@gmail.com**
+  </p>
+  <p>
+    -⚡ Fun fact **A fish tries to swim in the ocean 🐟🐠**
+  </p>
 </div>
 
 <div align="center">
