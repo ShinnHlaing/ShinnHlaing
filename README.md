@@ -13,6 +13,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,react,nextjs,mongodb,mysql,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,nodejs,express,react,nextjs,mongodb,mysql,postman,figma&theme=dark)](https://skillicons.dev)
 
 ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJuYXoyeW53eXhsemtkNXhodzN0ejRtcDV1NXNodmpyempoZnVkeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WvT88aQ6u0qH7XKhw9/giphy.gif)
