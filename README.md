@@ -4,7 +4,7 @@
 <div align="center">
   <p>
     
-   - 📫 How to reach me **<a href="mailto:shinhlaing.htp@gmail.com">shinhlaing.htp@gmail.com</a>**
+   -- 📫 How to reach me **<a href="mailto:shinhlaing.htp@gmail.com">shinhlaing.htp@gmail.com</a>**
 
   </p>
   <p>
