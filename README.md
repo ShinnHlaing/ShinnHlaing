@@ -3,10 +3,14 @@
 
 <div align="center">
   <p>
+    
    - 📫 How to reach me **<a href="mailto:shinhlaing.htp@gmail.com">shinhlaing.htp@gmail.com</a>**
+
   </p>
   <p>
+    
    - ⚡ Fun fact ***A fish tries to swim in the ocean 🐟🐠***
+
   </p>
 </div>
 
