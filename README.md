@@ -5,6 +5,8 @@
 
 - ⚡ Fun fact **A fish tries to swim in the ocean 🐟🐠**
 
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJjMzFjOGc0aG12NDhnejdqeHFscjVxZWFhd3FmMTJva21hdTl6OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KKKVerzrhjRrClNKt/giphy.gif)
+
 <h3 align="left">Connect with me: 🪼🐳🪸</h3>
 <p align="left">
 </p>
