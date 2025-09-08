@@ -29,7 +29,7 @@
 <div align="center">
   <h3>Languages and Tools:</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,typescript,react,nextjs,threejs,mongodb,mysql,postman,tailwind,vite,GSAP,figma&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,typescript,react,nextjs,threejs,mongodb,mysql,postman,tailwind,vite,figma&theme=dark)](https://skillicons.dev)
 </div>
 
 <div align="center">
