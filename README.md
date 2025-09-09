@@ -2,7 +2,7 @@
 
 <h4 align="center">
 
-  ***A passionate frontend developer specializing in React and Next.js. I build modern, responsive web applications with a focus on writing clean, and efficient code.***
+  ***A web developer specializing in React.js and Next.js. I build modern, responsive web applications with a focus on writing clean, and efficient code.***
   
 </h4>
 <div align="center">
