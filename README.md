@@ -2,7 +2,7 @@
 
 <h4 align="center">
 
-  ***A web developer specializing in React.js and Next.js. I build modern, responsive web applications with a focus on writing clean, and efficient code.***
+  ***A web developer specializing in React.js and Next.js. I build modern, responsive websites.***
   
 </h4>
 <div align="center">
