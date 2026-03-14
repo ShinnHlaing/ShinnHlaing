@@ -1,11 +1,11 @@
-<h1 align="center">Hello, I'm Shinn🐳</h1>
+<h1 align="left">Hello, I'm Shinn🐳</h1>
 
-<h4 align="center">
+<h4 align="left">
 
   ***A web developer specializing in React.js and Next.js. I build modern, responsive websites.***
   
 </h4>
-<div align="center">
+<div align="left">
   <p>
     
    - 📫 How to reach me **<a href="mailto:shinhlaing.htp@gmail.com">shinhlaing.htp@gmail.com</a>**
@@ -20,17 +20,17 @@
 
 
 
-<div align="center">
-  <h3>Connect with me: 🪼🐳🪸</h3>
+<div align="left">
+  <h3>Connect with me: shinhlaing.htp@gmail.com</h3>
 </div>
 
-<div align="center">
+<div align="left">
   <h3>Languages and Tools:</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,typescript,react,nextjs,mongodb,mysql,prisma,postman,tailwind,vite,html,css,figma&theme=dark)](https://skillicons.dev)
 </div>
 
-<div align="center">
+<div align="left">
  
   ![Shinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinnhlaing&show_icons=true&theme=tokyonight)
 
