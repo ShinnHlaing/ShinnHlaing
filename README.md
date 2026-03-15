@@ -47,6 +47,6 @@
 <!-- GitHub Profile Trophy -->
 <div align="left">
  
-![trophy](https://github-profile-trophy.vercel.app/?username=shinnhlaing&theme=dark&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=shinnhlaing&theme=dark&row=1&column=7)
  
 </div>
