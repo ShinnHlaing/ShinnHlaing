@@ -1,4 +1,4 @@
-<h2 align="left">Hello, I'm Shinn🐳</h2>
+<h2 align="left">Hello, I'm Shinn</h2>
 
 <h4 align="left">
 
@@ -45,8 +45,6 @@
 </div>
 <br />
 <!-- GitHub Profile Trophy -->
-<div align="left">
- 
-![Trophies](https://github-profile-trophy.vercel.app/?username=shinnhlaing&theme=dark&row=1&column=7)
- 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shinnhlaing&theme=dark&row=1&column=7" />
+</p>
