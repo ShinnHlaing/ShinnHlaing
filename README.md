@@ -1,4 +1,8 @@
-<h2 align="left">Hello, I'm Shinn</h2>
+<h2 align="left">
+
+![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Shinn%20Hlaing&fontSize=70&fontAlignY=40)
+ 
+</h2>
 
 <h4 align="left">
 
