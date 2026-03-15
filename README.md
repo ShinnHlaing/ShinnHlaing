@@ -18,22 +18,35 @@
   </p>
 </div>
 
-
-
-<!-- <div align="left">
-  <h3>Connect with me: shinhlaing.htp@gmail.com</h3>
-</div> -->
-
 <div align="left">
-  <h3>Languages and Tools:</h3>
+  <h4>Languages and Tools:</h4>
   
   [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,typescript,react,nextjs,mongodb,mysql,prisma,postman,tailwind,vite,html,css,figma&theme=dark)](https://skillicons.dev)
 </div>
 <br/>
 <div align="left">
  
-  ![Shinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinnhlaing&show_icons=true&theme=dracula)
+  ![Shinn's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinnhlaing&show_icons=true&theme=radical)
 
 </div>
+<br />
+<!-- Top Languages Card -->
+<div align="left"> 
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnhlaing&layout=pie&theme=radical)
 
+</div>
+<br />
+<!-- GitHub Streak Stats -->
+<div align="left">
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinnhlaing&theme=radical)
+ 
+</div>
+<br />
+<!-- GitHub Profile Trophy -->
+<div align="left">
+ 
+![trophy](https://github-profile-trophy.vercel.app/?username=shinnhlaing&theme=dark&row=1&column=7)
+ 
+</div>
