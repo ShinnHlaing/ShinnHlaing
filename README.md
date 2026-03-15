@@ -1,8 +1,8 @@
-<h1 align="left">Hello, I'm Shinn🐳</h1>
+<h2 align="left">Hello, I'm Shinn🐳</h2>
 
 <h4 align="left">
 
-  ***A web developer specializing in React.js and Next.js. I build modern, responsive websites.***
+  **A web developer specializing in React.js and Next.js. I build modern, responsive websites.**
   
 </h4>
 <div align="left">
@@ -33,7 +33,7 @@
 <!-- Top Languages Card -->
 <div align="left"> 
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnhlaing&layout=pie&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinnhlaing&layout=compact&theme=radical)
 
 </div>
 <br />
