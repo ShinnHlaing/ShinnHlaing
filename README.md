@@ -45,8 +45,8 @@
 </div>
 <br />
 <!-- GitHub Profile Trophy -->
-<p align="center">
+<p align="left">
  
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=shinnhlaing&theme=dracula&row=1&column=7" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=shinnhlaing&theme=nord&no-bg=true&row=1&column=7" />
 
 </p>
