@@ -1,6 +1,6 @@
 <h2 align="left">
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Frontend%20Developer&fontSize=50&fontFamily=Righteous)
+![Header](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Hello,%20I%20am%20Shinn&fontSize=50&fontFamily=Righteous)
  
 </h2>
 
