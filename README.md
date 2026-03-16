@@ -29,7 +29,7 @@
   </p>
   <p>
  
-   discord : **<a href="https://discord.com/users/757793285237506058">ShinnHlaing</a>**
+   discord : **<a href="https://discord.com/users/757793285237506058" target="_blank">ShinnHlaing</a>**
  
    </p>
 </div>
