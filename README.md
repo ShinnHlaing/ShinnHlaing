@@ -4,23 +4,34 @@
 
 </h2>
 
-<h3 align="left">
+<p align="left">
 
   **A web developer who focused on modern frontend ecosystems and creating seamless user journeys. Always learning, always building.**
-  **React & Next.js enthusiast | Crafting responsive, user-centric web applications**
-</h3>
+  
+
+</p>
+<p>
+
+**React & Next.js enthusiast | Crafting responsive, user-centric websites.**
+ 
+</p>
 
 <div align="left">
   <p>
     
-    You can contact me from my gmail **<a     href="mailto:shinhlaing.htp@gmail.com">shinhlaing.htp@gmail.com</a>**
+   You can contact me from :
 
   </p>
   <p>
-    
-    > Fun fact ***A fish tries to swim in the ocean 🐠***
+
+   gmail : **<a href="mailto:shinhlaing.htp@gmail.com">shinhlaing.htp@gmail.com</a>**
 
   </p>
+  <p>
+ 
+   discord : **<a href="https://discord.com/shinn/757793285237506058">ShinnHlaing</a>**
+ 
+   </p>
 </div>
 
 <div align="left">
