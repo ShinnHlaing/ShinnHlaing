@@ -1,29 +1,30 @@
 <h2 align="left">
  
-![Header](https://capsule-render.vercel.app/api?type=transparent&fontColor=7851A9&text=Hello,%20I%20am%20Shinn&fontSize=30&fontFamily=Righteous&fontAlign=15)
+**Hello, I'm Shinn**
 
 </h2>
 
-<h4 align="left">
+<h3 align="left">
 
-  **A web developer specializing in React.js and Next.js. I build modern, responsive websites.**
-  
-</h4>
+  **A web developer who focused on modern frontend ecosystems and creating seamless user journeys. Always learning, always building.**
+  **React & Next.js enthusiast | Crafting responsive, user-centric web applications**
+</h3>
+
 <div align="left">
   <p>
     
-   - 📫 How to reach me **<a href="mailto:shinhlaing.htp@gmail.com">shinhlaing.htp@gmail.com</a>**
+    You can contact me from my gmail **<a     href="mailto:shinhlaing.htp@gmail.com">shinhlaing.htp@gmail.com</a>**
 
   </p>
   <p>
     
-   - ⚡ Fun fact ***A fish tries to swim in the ocean 🐠***
+    > Fun fact ***A fish tries to swim in the ocean 🐠***
 
   </p>
 </div>
 
 <div align="left">
-  <h4>Languages and Tools:</h4>
+  <h4>Language, Library & Framework</h4>
   
   [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,typescript,react,nextjs,mongodb,mysql,prisma,postman,tailwind,vite,html,css,figma&theme=dark)](https://skillicons.dev)
 </div>
