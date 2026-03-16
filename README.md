@@ -29,15 +29,17 @@
   </p>
   <p>
  
-   discord : **<a href="https://discord.com/shinn/757793285237506058">ShinnHlaing</a>**
+   discord : **<a href="https://discord.com/users/757793285237506058">ShinnHlaing</a>**
  
    </p>
 </div>
 
 <div align="left">
-  <h4>Language, Library & Framework</h4>
+  
+ <h4>Language, Library & Framework</h4>
   
   [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,typescript,react,nextjs,mongodb,mysql,prisma,postman,tailwind,vite,html,css,figma&theme=dark)](https://skillicons.dev)
+
 </div>
 <br/>
 <div align="left">
